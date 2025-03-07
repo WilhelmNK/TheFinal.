@@ -1,0 +1,7 @@
+Para arrumar na conexao do SQL com o Codigo e bem simples Abrindo o sql server e indo em settings no codigo vai ter
+
+[global::System.Configuration.DefaultSettingValueAttribute("Data Source=SJR0577154W10-1\\SQLEXPRESS;\nInitial Catalog=bd_Chamados_Tec55;\nIntegr" +
+    "ated Security=True")]
+
+dai no sql voce vai ser uns numero //SQLEXPRESS e voce coloca os numero do seu sql nesse lugar e ai q faz as conexao
+entao dai e gg
